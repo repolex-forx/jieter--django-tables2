@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jieter/django-tables2/commit/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
       "git:hexsha": "34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jieter/django-tables2/commit/426dc6934222da53bd663640293d94c117134946",

@@ -1,0 +1,7 @@
+[2026-10-15T08:57:29Z] === AST ITERATION 1 START | repo=jieter/django-tables2 sha=34cdba3e ===
+[2026-10-15T08:57:29Z] [iter=1] PHASE START: ast repo=jieter/django-tables2 sha=34cdba3e
+[2026-10-15T08:57:29Z] [iter=1] Building AST aggregate chunks
+[2026-10-15T08:58:28Z] [iter=1] AST chunks built count=1 triples=541490
+[2026-10-15T08:58:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af/.complete
+[2026-10-15T08:58:28Z] [iter=1] PHASE END: ast elapsed_s=59 elapsed_min=1.0
+[2026-10-15T08:58:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
