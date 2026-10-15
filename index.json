@@ -1,0 +1,11 @@
+{
+  "org": "jieter",
+  "repo": "django-tables2",
+  "versions": [
+    {
+      "commit": "34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
+      "tag": "",
+      "parsed_at": "2026-10-15T08:59:50.893984+00:00"
+    }
+  ]
+}
